@@ -1,0 +1,8 @@
+.table{
+    width: 60% !important;
+    margin: 3% auto;
+}
+
+.table-striped>tbody>tr:nth-of-type(odd)>*{
+    background-color: #EDF7F8 !important;
+}
